@@ -1,6 +1,6 @@
 # Data Jobs Dashboard — Power BI
 
-![Dashboard_image](/images/Dashboard_vid.gif)
+![Dashboard_image](images/Dashboard_vid.gif)
 
 A Power BI dashboard built to explore data job trends, salaries, and market insights using a real-world dataset. This is my first Power BI project.
 
